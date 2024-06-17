@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 16 11:33:08 WAT 2024","Sun Jun 16 11:33:28 WAT 2024","19322","","E-commercePOM.spec.js","","","","@web E-commercePOM ZARA COAT 3",""
+"passed","Sun Jun 16 11:32:41 WAT 2024","Sun Jun 16 11:33:00 WAT 2024","19822","","MoreValidations.spec.js","","","","@web Popup validations",""
+"passed","Sun Jun 16 11:32:41 WAT 2024","Sun Jun 16 11:32:59 WAT 2024","18388","","UIBasicsTest.spec.js","","","","@web Handling Child Window",""
+"passed","Sun Jun 16 11:32:41 WAT 2024","Sun Jun 16 11:33:08 WAT 2024","27641","","E-commercePOM.spec.js","","","","@web E-commercePOM ADIDAS ORIGINAL",""
